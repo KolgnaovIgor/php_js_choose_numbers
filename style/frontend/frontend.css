@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form-box-block-numbers{
+    box-sizing: border-box;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.form-block-numbers{
+    width: 600px;
+    height: 250px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+.form-block-numbers input{
+    font-family: Arial;
+    margin-right: 5px;
+    margin-left: 5px;
+}
